@@ -1,3 +1,6 @@
+# below is a tiny javascript function that checks today's date against a date argument passed through it
+
+
 function isToday(date) {
   return new Date().toDateString() === date.toDateString();
 }
