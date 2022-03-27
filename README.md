@@ -6,3 +6,6 @@ There are many code challenges.  Today I stop coding in the void and promise to 
 
 Today, I planted something small.  But **seeds do grow with attention and care**
 
+Dear Diary,
+
+Last night my laptop broke. I will have another one to work on soon. 3/27/2022
