@@ -28,3 +28,17 @@ or
 function countSheepsVersionTwo(arrayOfSheep) {
   return arrayOfSheep.filter(x => x === true).length
 }
+
+
+// or I can do it with a for loop!
+
+function countSheepsWithForLoop(arrayOfSheep) {
+  let z = 0;
+  
+  for (let i=0; i < arrayOfSheep.length; i++){
+    if (arrayOfSheep[i] === true) {
+      z++
+    } 
+  }
+  return z
+}
