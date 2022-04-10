@@ -9,3 +9,11 @@ Today, I planted something small.  But **seeds do grow with attention and care**
 Dear Diary,
 
 Last night my laptop broke. I will have another one to work on soon. 3/27/2022
+
+
+Dear Diary, 
+
+Seven in a row. Another full week.  4/10/2022
+
+
+
