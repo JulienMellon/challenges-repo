@@ -15,5 +15,7 @@ Dear Diary,
 
 Seven in a row. Another full week.  4/10/2022
 
+Dear Diary,
 
+I know I've had streaks in the past, but I don't always count them.  4/18/2022
 
