@@ -5,7 +5,7 @@ Examples
 "hello"     -->  "hll"
 "codewars"  -->  "cdwrs"
 "goodbye"   -->  "gdby"
-"HELLO"     -->  "HELLO"
+"HELLO"     -->  "HELLO" 
 */
 
 function shortcut (str) {
