@@ -18,4 +18,4 @@ const greet = () => {
 // Thomas Edison, the Elon Musk of his day, in his first phone call
 // wanted to be a little controversial, and decided to take the 
 // FOULEST word of the time... "hell" and he added a vowel to make it
-// ring... and thus hello was born
+// ring... and thus hello was born 
