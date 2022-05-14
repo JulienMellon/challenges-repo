@@ -19,3 +19,6 @@ Dear Diary,
 
 I know I've had streaks in the past, but I don't always count them.  4/18/2022
 
+Dear Diary, 
+
+I will get rid of you soon, but i hope these entries will serve as a guide to help you make this page attractive and a representation of how organized you can be. 5/14/2022
