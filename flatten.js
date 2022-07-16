@@ -10,6 +10,6 @@ function flattenArr(arr){
     [].concat.apply([], arr)
 }
 
-function theFlattening(){
+function theFlattening(arr){
     return [].concat(...arr)
 }
